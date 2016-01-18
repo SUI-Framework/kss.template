@@ -1,0 +1,27 @@
+{
+  "name": "kss.template",
+  "version": "0.1.0",
+  "description": "KSS Template for SUI Framework",
+  "main": "./src/index.html",
+  "scripts": {
+    "less": "lessc --verbose src/public/kss.less src/public/kss.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUI-Framework/kss.template.git"
+  },
+  "keywords": [
+    "sui",
+    "kss",
+    "template"
+  ],
+  "author": "SUI Engineers | @suiengineers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUI-Framework/kss.template/issues"
+  },
+  "homepage": "https://github.com/SUI-Framework/kss.template#readme",
+  "devDependencies": {
+    "less": "^2.5.3"
+  }
+}
