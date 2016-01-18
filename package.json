@@ -1,6 +1,6 @@
 {
   "name": "sui-kss-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "KSS Template for SUI Framework",
   "main": "./src/index.html",
   "scripts": {
