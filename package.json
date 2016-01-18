@@ -1,5 +1,5 @@
 {
-  "name": "kss.template",
+  "name": "sui-kss-template",
   "version": "0.1.0",
   "description": "KSS Template for SUI Framework",
   "main": "./src/index.html",
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "sui",
+    "suiengineers",
     "kss",
     "template"
   ],
