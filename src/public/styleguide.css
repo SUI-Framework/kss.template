@@ -397,3 +397,11 @@ $STYLEGUIDE
   margin-bottom: 10px;
   padding: 20px;
 }
+
+.sg-SampleSpacing {
+  background-color: lightblue;
+}
+
+.sg-SampleSpacing--medium {
+  background-color: lightgreen;
+}
