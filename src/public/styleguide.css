@@ -405,3 +405,10 @@ $STYLEGUIDE
 .sg-SampleSpacing--medium {
   background-color: lightgreen;
 }
+
+@media only screen and (min-width: 480px) {
+  .sg-Tooltip {
+    margin-bottom: 100px;
+    top: -20px;
+  }
+}
