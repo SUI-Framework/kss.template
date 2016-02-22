@@ -389,3 +389,26 @@ $STYLEGUIDE
 .sg-block:last-child {
   border: 0;
 }
+
+.sg-sample-box {
+  background-color: #999999;
+  border: 1px solid #666666;
+  color: #ffffff;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.sg-SampleSpacing {
+  background-color: lightblue;
+}
+
+.sg-SampleSpacing--medium {
+  background-color: lightgreen;
+}
+
+@media only screen and (min-width: 480px) {
+  .sg-Tooltip {
+    margin-bottom: 100px;
+    top: -20px;
+  }
+}
